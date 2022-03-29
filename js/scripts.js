@@ -6,6 +6,11 @@ function noInputtedWord(word, text) {
 
 // Business Logic
 
+function mostCommonWords()  {
+  
+}
+
+
 function wordCounter(text) {
   if (text.trim().length === 0) {
     return 0;

@@ -1,3 +1,5 @@
+## _New Testing_
+
 Describe: wordCounter()
 
 Test: "It should return 1 if a passage has just one word."
@@ -77,3 +79,12 @@ const word = "";
 const text = "red RED Red!";
 wordCounter(word, text);
 Expected Output: 0
+
+## _New Testing Block_
+
+Describe: mostCommonWords()
+Test: "It should return a repeating word."
+Code:
+const
+const text 
+Expected Output: 
